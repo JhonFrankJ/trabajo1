@@ -1,0 +1,10 @@
+Enlace de repositorio https://github.com/JhonFrankJ/trabajo1
+
+cd #desplazamiento entre carpetas
+ls # lista de archivos dentro una carpeta
+sudo #comando de acceso de mayor nivel
+mkdir #creacion de carpeta
+echo .bashrd
+nano comandos.txt #carga de archivo
+cat comandos.txt # lectura de archivo
+gedit #editor de archivo
