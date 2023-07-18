@@ -8,3 +8,5 @@ echo .bashrd
 nano comandos.txt #carga de archivo
 cat comandos.txt # lectura de archivo
 gedit #editor de archivo
+
+modificacion
